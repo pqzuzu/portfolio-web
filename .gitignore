@@ -17,5 +17,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+<<<<<<< HEAD
 TODO.md
 routes/web copy.php
+======= origin/main
